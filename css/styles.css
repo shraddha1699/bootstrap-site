@@ -166,6 +166,7 @@ p{
 }
 
 
+
 @media (max-width:991px){
     .iphone-img{
         position: static;
@@ -174,6 +175,19 @@ p{
     #title{
         text-align: center;
     }
+    .price-text{
+        line-height: 1.5;
+        font-size: 1.5rem;
+    }
+    .big-heading{
+        font-size: 2.5rem;
+
+    }
+    .testimonial-text{
+        line-height: 1.5;
+        font-size: 1.5rem;
+    }
+
 }
 
 #cta{
